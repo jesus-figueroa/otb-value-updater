@@ -17,7 +17,7 @@ Compile into an executable with pyinstaller
 
 To install in windows, first complete your OTB setup and ensure it's working properly and that the values file was generated.
 
-Then download the **olympian.bat** and either compile your own **valueupdater.exe** or download the precompiled [**valueupdater.exe**](https://github.com/jafigueroa-dev/otb-value-updater/blob/master/valueupdater.exe).
+Then download the **olympian.bat** provided here and either compile your own **valueupdater.exe** or download the precompiled [**valueupdater.exe**](https://github.com/jafigueroa-dev/otb-value-updater/blob/master/valueupdater.exe).
 
 Then place both files into you **olympian.exe** directory, and replace the old **olympian.bat** with the new one provided.
 
