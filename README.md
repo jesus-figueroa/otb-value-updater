@@ -8,7 +8,9 @@ This python script will gather values from https://www.rolimons.com/ and update 
 I have precompiled an executable [here](https://github.com/jafigueroa-dev/otb-value-updater/blob/master/valueupdater.exe). To compile the python script into an executable to use in windows for yourself, you can use the following commands:
 
 Install pyinstaller using pip
-``` pip install pyinstaller ```
+```
+pip install pyinstaller
+```
 
 Compile into an executable with pyinstaller
 ``` pyinstaller --onefile valueupdater.py ```
