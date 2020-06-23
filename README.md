@@ -54,5 +54,6 @@ Next add commands for both OTB and the valueupdater so that your crontab can aut
 > NOTE: You must add and empty line after your crontab commands or it won't work
 
 It should look like this [image](https://i.gyazo.com/06512cf9cb38880a7a26543388e7de42.png)
+This will update your values and restart OTB every hour.
 
 Afterwards, hit CTRL + X and hit Y to save the your crontab.
