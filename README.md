@@ -43,7 +43,7 @@ Lastly, edit your crontab so that both OTB and the script will run automatically
 crontab -e
 ```
 
-Chose nano as your editor.
+Choose nano as your editor.
 
 Next add commands for both OTB and the valueupdater so that your crontab can automatically update values and restart OTB:
 ```
